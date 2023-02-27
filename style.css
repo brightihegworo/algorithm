@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    background-image: url("images/rice-1600219_1920-copy.jpeg");
+}
+
+h2.Items.h2header{
+    color: gray;
+}
+
+div p.sugar, a{
+    background-color: #86a5d1;
+}
+div{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+    background-color: white;
+}
+
+div.rice{
+   background-image: url('images/download.jpeg');
+}
+
+div#header{
+    background-color: #34ebba;
+    color: white;
+}
+
+div#header h1{
+    text-transform: uppercase;
+}
+
+span.underline{
+    text-decoration: underline;
+}
