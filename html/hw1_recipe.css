@@ -1,6 +1,6 @@
 body{
     margin: 100px;
-    background-image: url("images/easy-coconut-rice-7.jpeg");
+    background-image: url("../images/easy-coconut-rice-7.jpeg");
 }
 
 h3.Items{
@@ -21,6 +21,6 @@ div{
 }
 
 div#stepsss{
-    background-image: url("images/download.jpeg");
+    background-image: url("../images/download.jpeg");
     color: aqua;
 }

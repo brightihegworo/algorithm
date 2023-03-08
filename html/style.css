@@ -1,6 +1,6 @@
 body{
     margin: 0px;
-    background-image: url("images/rice-1600219_1920-copy.jpeg");
+    background-image: url("../images/rice-1600219_1920-copy.jpeg");
 }
 
 h2.Items.h2header{
@@ -20,7 +20,7 @@ div{
 }
 
 div.rice{
-   background-image: url('images/download.jpeg');
+   background-image: url('../images/download.jpeg');
 }
 
 div#header{
