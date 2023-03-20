@@ -1,6 +1,7 @@
 
 
 
+#0(n)
 def count_odd_and_even_numbers(number: int):
     even_num = 0
     odd_num = 0
